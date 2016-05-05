@@ -46,14 +46,14 @@ var projects = [
 		"dates": "June 2015",
 		"description": "Worked as an Assistant Director for this short about a couple and a first date at a restaurant.",
 		"images": [
-			"images/storyor2.jpg","images/storyor2-2.jpg"
+			"images/storyor2.JPG","images/storyor2-2.JPG"
 		]
 	}, {
 		"title": "Meeting What's His Face",
 		"dates": "April 2015",
 		"description": "Worked as the production designer for this comedy short about a woman who finds a man stuck in a ceiling and helps him out, literally.",
 		"images": [
-			"images/mwhf.jpg"
+			"images/mwhf.JPG"
 		]
 	}, {
 		"title": "Forests of Cumbria",
